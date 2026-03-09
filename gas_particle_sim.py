@@ -31,7 +31,7 @@ class GasParticleSim:
         # random.uniform(a, b) in Python is designed to generate pseudo-random floating-point numbers that follow a continuous uniform distribution within the range.
 
         # Random placement of particles without overlap
-        for _ in range(350):
+        for _ in range(370):
             while True:
                 x = random.uniform(12, self.settings.screen_width - 12)
                 y = random.uniform(12, self.settings.screen_height - 12)

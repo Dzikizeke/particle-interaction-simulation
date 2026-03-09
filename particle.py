@@ -19,7 +19,7 @@ class Particle:
         self.vx = random.gauss(0, sigma) # velocity in x
         self.vy = random.gauss(0, sigma) # velocity in y
 
-        self.radius = 12
+        self.radius = 8
         self.color = (136, 8, 8)
 
     def update(self, dt):
