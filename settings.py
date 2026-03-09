@@ -4,8 +4,8 @@ class Settings:
     def __init__(self):
         """Initialize the sim's settings."""
         # Screen settings
-        self.screen_width = 1000
-        self.screen_height = 600
+        self.screen_width = 1343
+        self.screen_height = 755
         self.bg_color = (230, 230, 230)
 
 
