@@ -1,7 +1,7 @@
 # 2D Gas Particle Simulation
 
 ## Demo
-![Simulation](media/simulation.gif)
+![Simulation](media/simulation_fin.gif)
 
 A physics-based simulation of gas particles in a 2D container designed to explore models from kinetic theory and statistical mechanics.
 
